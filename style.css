@@ -53,3 +53,10 @@ div.box h3+p {
  .container .box+li {
   background-color: cadetblue;
 }
+.texture {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+
+  background-color: rgb(68, 160, 236);
+}
